@@ -1,0 +1,10 @@
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\bin\Debug\vCardGenerator.exe.config
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\bin\Debug\vCardGenerator.exe
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\bin\Debug\vCardGenerator.pdb
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\obj\Debug\vCardGenerator.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\obj\Debug\vCardGenerator.Form1.resources
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\obj\Debug\vCardGenerator.Properties.Resources.resources
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\obj\Debug\vCardGenerator.csproj.GenerateResource.Cache
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\obj\Debug\vCardGenerator.exe
+c:\users\guilherme\documents\visual studio 2017\Projects\vCardGenerator\vCardGenerator\obj\Debug\vCardGenerator.pdb
